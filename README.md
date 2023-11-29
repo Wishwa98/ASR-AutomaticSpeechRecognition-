@@ -1,6 +1,8 @@
 # ASR-(Automatic Speech Recognition)
 Development of an Automatic Speech Recognition (ASR) system based on Sri Lankan Speaking accent 
 
+Model deployed in hugging face -  [Model Link](https://huggingface.co/Wishwa98/ASRForCommonVoice)
+
 ## Main Objective
 
 Development of an Automatic Speech Recognition system for feeding quires to Chatbot
